@@ -240,4 +240,4 @@ This repository serves as the official landing page for Grand Chase. The softwar
 **Get the most recent version of Grand Chase today!**
 
 ---
-**Last updated:** 2026-09-18 12:37:51 UTC
+**Last updated:** 2026-09-18 16:54:43 UTC
